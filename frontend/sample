@@ -1,0 +1,3 @@
+REACT_APP_API_URL=http://localhost:5000
+MONGO_URL=mongodb+srv://dharmasamvarthni1729_db_user:bQO6vumOUZKIwTQl@cluster0.0ha16x0.mongodb.net/
+PORT=5000
